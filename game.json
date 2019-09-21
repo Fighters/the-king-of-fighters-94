@@ -1,0 +1,416 @@
+{
+  "romans": {
+    "regions": [
+      {
+        "region": "default",
+        "roman": "The King of Fighters '94"
+      },
+      {
+        "region": "japan",
+        "roman": "The King of Fighters '94",
+        "original": "ザ・キング・オブ・ファイターズ '94"
+      }
+    ],
+    "also-known-as": ["kof 94", "94"]
+  },
+  "platforms": [
+    {
+      "platform": "Arcade",
+      "regions": [
+        {
+          "region": "Japan",
+          "roman": "The King of Fighters '94",
+          "original": "ザ・キング・オブ・ファイターズ '94",
+          "releaseDate": "08-25-1994",
+          "developer": "SNK",
+          "publisher": "SNK"
+        },
+        {
+          "region": "United States",
+          "roman": "The King of Fighters '94",
+          "releaseDate": "08-25-1994",
+          "developer": "SNK",
+          "publisher": "SNK"
+        },
+        {
+          "region": "Europe",
+          "roman": "The King of Fighters '94",
+          "releaseDate": "08-25-1994",
+          "developer": "SNK",
+          "publisher": "SNK"
+        }
+      ]
+    },
+    {
+      "platform": "Neo Geo",
+      "regions": [
+        {
+          "region": "Japan",
+          "roman": "The King of Fighters '94",
+          "original": "ザ・キング・オブ・ファイターズ '94",
+          "releaseDate": "10-01-1994",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ng-jp-front.webp"
+        },
+        {
+          "region": "United States",
+          "roman": "The King of Fighters '94",
+          "releaseDate": "10-01-1994",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ng-us-front.webp"
+        }
+      ]
+    },
+    {
+      "platform": "Neo Geo CD",
+      "regions": [
+        {
+          "region": "Japan",
+          "roman": "The King of Fighters '94",
+          "original": "ザ・キング・オブ・ファイターズ '94",
+          "releaseDate": "11-02-1994",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ngcd-jp-front.webp"
+        },
+        {
+          "region": "United States",
+          "roman": "The King of Fighters '94",
+          "releaseDate": "1996",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ngcd-us-front.webp"
+        }
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Kyo Kusanagi"
+        },
+        {
+          "region": "japan",
+          "roman": "Kyo Kusanagi",
+          "original": "草薙 京"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Benimaru Nikaido"
+        },
+        {
+          "region": "japan",
+          "roman": "Benimaru Nikaido",
+          "original": "二階堂 紅丸"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Goro Daimon"
+        },
+        {
+          "region": "japan",
+          "roman": "Goro Daimon",
+          "original": "大門 五郎"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Terry Bogard"
+        },
+        {
+          "region": "japan",
+          "roman": "Terry Bogard",
+          "original": "テリー・ボガード"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Andy Bogard"
+        },
+        {
+          "region": "japan",
+          "roman": "Andy Bogard",
+          "original": "アンディ・ボガード"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Joe Higashi"
+        },
+        {
+          "region": "japan",
+          "roman": "Joe Higashi",
+          "original": "ジョー・ヒガシ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Athena Asamiya"
+        },
+        {
+          "region": "japan",
+          "roman": "Athena Asamiya",
+          "original": "麻宮 アテナ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Sie Kensou"
+        },
+        {
+          "region": "japan",
+          "roman": "Sie Kensou",
+          "original": "椎 拳崇"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Chin Gentsai"
+        },
+        {
+          "region": "japan",
+          "roman": "Chin Gentsai",
+          "original": "鎮 元斎"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Heavy D!"
+        },
+        {
+          "region": "japan",
+          "roman": "Heavy D!",
+          "original": "ヘビィ・D！"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Lucky Glauber"
+        },
+        {
+          "region": "japan",
+          "roman": "Lucky Glauber",
+          "original": "ラッキー・グローバー"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Brian Battler"
+        },
+        {
+          "region": "japan",
+          "roman": "Brian Battler",
+          "original": "ブライアン・バトラー"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Kim Kaphwan"
+        },
+        {
+          "region": "japan",
+          "roman": "Kim Kaphwan",
+          "original": "キム・カッファン"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Chang Koehan"
+        },
+        {
+          "region": "japan",
+          "roman": "Chang Koehan",
+          "original": "チャン・コーハン"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Choi Bounge"
+        },
+        {
+          "region": "japan",
+          "roman": "Choi Bounge",
+          "original": "チョイ・ボンゲ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Heidern"
+        },
+        {
+          "region": "japan",
+          "roman": "Heidern",
+          "original": "ハイデルン"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Ralf Jones"
+        },
+        {
+          "region": "japan",
+          "roman": "Ralf Jones",
+          "original": "ラルフ・ジョーンズ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Clark Still"
+        },
+        {
+          "region": "japan",
+          "roman": "Clark Still",
+          "original": "クラーク・スティル"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Mai Shiranui"
+        },
+        {
+          "region": "japan",
+          "roman": "Mai Shiranui",
+          "original": "不知火 舞"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "King"
+        },
+        {
+          "region": "japan",
+          "roman": "King",
+          "original": "キング"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Yuri Sakazaki"
+        },
+        {
+          "region": "japan",
+          "roman": "Yuri Sakazaki",
+          "original": "ユリ・サカザキ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Ryo Sakazaki"
+        },
+        {
+          "region": "japan",
+          "roman": "Ryo Sakazaki",
+          "original": "リョウ・サカザキ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Robert Garcia"
+        },
+        {
+          "region": "japan",
+          "roman": "Robert Garcia",
+          "original": "ロバート・ガルシア"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Takuma Sakazaki"
+        },
+        {
+          "region": "japan",
+          "roman": "Takuma Sakazaki",
+          "original": "タクマ・サカザキ"
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Rugal Bernstein"
+        },
+        {
+          "region": "japan",
+          "roman": "Rugal Bernstein",
+          "original": "ルガール・バーンシュタイン"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buttons": {
+    "Arcade": [
+      { "image": "layout.webp" },
+      { "A": "A" },
+      { "B": "B" },
+      { "C": "C" },
+      { "D": "D" }
+    ],
+    "Neo Geo": [
+      { "image": "layout.webp" },
+      { "A": "A" },
+      { "B": "B" },
+      { "C": "C" },
+      { "D": "D" }
+    ],
+    "Neo Geo CD": [
+      { "image": "layout.webp" },
+      { "A": "A" },
+      { "B": "B" },
+      { "C": "C" },
+      { "D": "D" }
+    ]
+  },
+  "hasUpgrades": false
+}
