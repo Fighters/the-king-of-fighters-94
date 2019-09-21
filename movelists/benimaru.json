@@ -1,0 +1,48 @@
+{
+  "names": {
+    "default": {
+      "roman": "Benimaru"
+    },
+    "japan": {
+      "roman": "Benimaru",
+      "original": "二階堂 紅丸"
+    }
+  },
+  "images": {
+    "face": "benimaru.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Front Suplex",
+        "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{uniqueAttacks}": [
+      {
+        "name": "Flying Drill",
+        "input": "{inAir}, :d:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Raijinken",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Iai Geri",
+        "input": ":qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Shinku Kakategoma",
+        "input": ":hcb:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Raikoken",
+        "input": ":qcf::d::df:+[C]"
+      }
+    ]
+  }
+}
