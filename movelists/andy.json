@@ -1,0 +1,46 @@
+{
+  "names": {
+    "default": {
+      "roman": "Andy"
+    },
+    "japan": {
+      "roman": "Andy",
+      "original": "アンディ・ボガード"
+    }
+  },
+  "images": {
+    "face": "andy.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Kakaekomi Nage",
+        "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Hishoken",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Shoryudan",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Zaneiken",
+        "input": "{charge} :db: :f:+[A] {or} [C]"
+      },
+      {
+        "name": "Kuhadan",
+        "input": "{charge} :db: :uf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Cho Reppadan",
+        "input": "{charge} :d: :df::f:+[B]+[D]"
+      }
+    ]
+  }
+}
