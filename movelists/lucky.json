@@ -1,0 +1,52 @@
+{
+  "names": {
+    "default": {
+      "roman": "Lucky"
+    },
+    "japan": {
+      "roman": "Lucky",
+      "original": "ラッキー・グローバー"
+    }
+  },
+  "images": {
+    "face": "lucky.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Dunk Buster",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Lucky Crush",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Dunk Drop",
+        "input": "{inAir}, :d:+[C]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Death Bound",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Cyclone Break",
+        "input": ":qcb::ub:+[B] {or} [D]"
+      },
+      {
+        "name": "Lucky Vision",
+        "input": ":hcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Hell Bound",
+        "input": ":qcb::db::f:+[B]+[C]"
+      }
+    ]
+  }
+}

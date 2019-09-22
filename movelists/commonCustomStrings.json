@@ -1,14 +1,14 @@
 {
     "english": {
         "normalThrows": "Normal Throws",
-        "uniqueAttacks": "Unique Attacks",
+        "commandMoves": "Command Moves",
         "specialMoves": "Special Moves",
         "desperationMove": "Desperation Move",
         "desperationMoves": "Desperation Moves"
     },
     "portuguese": {
         "normalThrows": "Agarrões Normais",
-        "uniqueAttacks": "Ataques Únicos",
+        "commandMoves": "Golpes de Comando",
         "specialMoves": "Golpes Especiais",
         "desperationMove": "Desperation Move",
         "desperationMoves": "Desperation Moves"

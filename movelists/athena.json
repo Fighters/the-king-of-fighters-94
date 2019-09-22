@@ -22,7 +22,7 @@
         "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C]"
       }
     ],
-    "{uniqueAttacks}": [
+    "{commandMoves}": [
       {
         "name": "Phoenix Bomb",
         "input": "{inAir}, :d:+[D]"

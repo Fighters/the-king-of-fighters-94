@@ -18,7 +18,7 @@
         "input": "{close}, :b: {or} :f:+[C]"
       }
     ],
-    "{uniqueAttacks}": [
+    "{commandMoves}": [
       {
         "name": "Ge-Shiki: Gofu Yo",
         "input": "{close}, :f:+[D]"
