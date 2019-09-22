@@ -1,0 +1,50 @@
+{
+  "names": {
+    "default": {
+      "roman": "Joe"
+    },
+    "japan": {
+      "roman": "Joe",
+      "original": "ジョー・ヒガシ"
+    }
+  },
+  "images": {
+    "face": "joe.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Leg Throw",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Hiza Jigoku",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Bakuretsuken",
+        "input": "{tap} [A] {or} [C] {repeatedly}"
+      },
+      {
+        "name": "Hurricane Upper",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Tiger Kick",
+        "input": ":qcf::uf:+[B] {or} [D]"
+      },
+      {
+        "name": "Slash Kick",
+        "input": "{charge} :db: :uf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Screw Upper",
+        "input": ":f::df::d::db:+[B]+[C]"
+      }
+    ]
+  }
+}
