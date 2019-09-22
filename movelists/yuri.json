@@ -1,0 +1,56 @@
+{
+  "names": {
+    "default": {
+      "roman": "Yuri"
+    },
+    "japan": {
+      "roman": "Yuri",
+      "original": "ユリ・サカザキ"
+    }
+  },
+  "images": {
+    "face": "yuri.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Silent Nage",
+        "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Enyoku",
+        "input": ":b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Ko-oken",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Raioken",
+        "input": ":qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Saiha",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Haoh Shokoken",
+        "input": ":f::hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Hyakuretsu Binta",
+        "input": "{close}, :dp:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Hien Hououkyaku",
+        "input": ":f::b::hcb:+[B]+[C]"
+      }
+    ]
+  }
+}
