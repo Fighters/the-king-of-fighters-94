@@ -1,0 +1,52 @@
+{
+  "names": {
+    "default": {
+      "roman": "Brian"
+    },
+    "japan": {
+      "roman": "Brian",
+      "original": "ブライアン・バトラー"
+    }
+  },
+  "images": {
+    "face": "brian.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Atomic Drop",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Rock Buster",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Buster Tomahawk",
+        "input": "{inAir}, :d:+[C]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Brian Tornado",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Hyper Tackle",
+        "input": ":hcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Screw Body Press",
+        "input": "{inAir}, :qcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Big Bang Tackle",
+        "input": ":qcb::hcb:+[C]"
+      }
+    ]
+  }
+}
