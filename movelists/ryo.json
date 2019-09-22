@@ -24,21 +24,21 @@
         "input": ":qcf:+[A] {or} [C]"
       },
       {
-        "name": "Ko-oken",
-        "input": ":qcf:+[A] {or} [C]"
+        "name": "Kuchu Ko-oken",
+        "input": "{inAir}, :qcf:+[A] {or} [C]"
       },
       {
         "name": "Koho",
         "input": ":dp:+[A] {or} [C]"
       },
       {
-        "name": "Hien Shippukyaku",
-        "input": "{charge} :db: :f:+[B] {or} [D]"
-      },
-      {
         "name": "Zanretsuken",
         "input": ":hcb:+[A] {or} [C]"
       },
+      {
+        "name": "Hien Shippukyaku",
+        "input": "{charge} :db: :f:+[B] {or} [D]"
+      },      
       {
         "name": "Haoh Shokoken",
         "input": ":f::hcf:+[A] {or} [C]"
