@@ -1,0 +1,46 @@
+{
+  "names": {
+    "default": {
+      "roman": "Heavy D!"
+    },
+    "japan": {
+      "roman": "Heavy D!",
+      "original": "ヘビィ・D！"
+    }
+  },
+  "images": {
+    "face": "heavyD.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Stomach Buster",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Dancing Beat",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "R.S.D.",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Blast Upper",
+        "input": ":qcf::uf:+[B] {or} [D]"
+      },
+      {
+        "name": "Soul Flower",
+        "input": ":hcf:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "D. Crazy",
+        "input": ":qcf::df::qcb:+[C]"
+      }
+    ]
+  }
+}
