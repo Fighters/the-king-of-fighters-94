@@ -1,0 +1,42 @@
+{
+  "names": {
+    "default": {
+      "roman": "Chang"
+    },
+    "japan": {
+      "roman": "Chang",
+      "original": "チャン・コーハン"
+    }
+  },
+  "images": {
+    "face": "chang.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Dai Hakai Nage",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Kusari Jime",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Tekkyu Daikaiten",
+        "input": "{tap} [A] {or} [C] {repeatedly} ({press} [A]+[B]+[C]+[D] {toCancel})"
+      },
+      {
+        "name": "Tekkyu Funsai Geki",
+        "input": "{charge} :b: :f:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Tekkyu Dai Boso",
+        "input": ":qcf::df::qcb:+[C]"
+      }
+    ]
+  }
+}
