@@ -16,7 +16,9 @@
       {
         "name": "Stomach Buster",
         "input": "{close}, :b: {or} :f:+[C]"
-      },
+      }
+    ],
+    "{commandMoves}": [
       {
         "name": "Dancing Beat",
         "input": "{close}, :b: {or} :f:+[D]"
