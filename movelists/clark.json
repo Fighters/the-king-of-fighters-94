@@ -14,7 +14,7 @@
   "moves": {
     "{normalThrows}": [
       {
-        "name": "Clark Drop",
+        "name": "Death Mountain Buster",
         "input": "{close}, :b: {or} :f:+[C] {or} [D]"
       }
     ],
