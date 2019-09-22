@@ -1,0 +1,52 @@
+{
+  "names": {
+    "default": {
+      "roman": "Choi"
+    },
+    "japan": {
+      "roman": "Choi",
+      "original": "チョイ・ボンゲ"
+    }
+  },
+  "images": {
+    "face": "choi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Zujo Sashi",
+        "input": "{close}, :b: {or} :f:+[C]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Nidanzan",
+        "input": "{close}, :f:+[D]"
+      },
+      {
+        "name": "Wall Jump",
+        "input": "{duringJumpNearWall}, :f:"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Kaiten Hienzan",
+        "input": "{charge} :b: :f:+[A] {or} [C]"
+      },
+      {
+        "name": "Tatsumaki Shippuzan",
+        "input": "{charge} :d: :u:+[A] {or} [C]"
+      },
+      {
+        "name": "Hisho Kuretsuzan",
+        "input": "{charge} :d: :u:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Chozetsu Tatsumaki Shinkuzan",
+        "input": "{charge} :b: :db::d::u:+[B]+[C]"
+      }
+    ]
+  }
+}
