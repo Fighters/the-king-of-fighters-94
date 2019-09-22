@@ -1,0 +1,42 @@
+{
+  "names": {
+    "default": {
+      "roman": "Clark"
+    },
+    "japan": {
+      "roman": "Clark",
+      "original": "クラーク・スティル"
+    }
+  },
+  "images": {
+    "face": "clark.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Clark Drop",
+        "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Vulcan Punch",
+        "input": "{tap} [A] {or} [C] {repeatedly}"
+      },
+      {
+        "name": "Gatling Attack",
+        "input": "{charge} :b: :f:+[A] {or} [C]"
+      },
+      {
+        "name": "Super Argentine Backbreaker",
+        "input": "{close}, :hcf:+[D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Ultra Argentine Backbreaker",
+        "input": "{close}, :hcb::hcb:+[C]"
+      }
+    ]
+  }
+}
