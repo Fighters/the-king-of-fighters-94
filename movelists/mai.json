@@ -16,6 +16,10 @@
       {
         "name": "Fusha Kuzushi",
         "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      },
+      {
+        "name": "Yume Zakura",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[D]"
       }
     ],
     "{commandMoves}": [

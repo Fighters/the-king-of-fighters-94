@@ -16,6 +16,10 @@
       {
         "name": "Silent Nage",
         "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      },
+      {
+        "name": "Tsubame Otoshi",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C] {or} [D]"
       }
     ],
     "{commandMoves}": [
